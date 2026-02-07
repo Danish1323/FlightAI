@@ -1,6 +1,3 @@
-# FlightAI
-✈️ FlightAI — Airline Assistant with Tool Calling
-
 # ✈️ FlightAI — Airline Assistant with Tool Calling
 
 FlightAI is an intelligent airline assistant powered by OpenAI that provides fast, accurate ticket pricing through a structured tool-calling workflow. It combines an LLM with a SQLite database and a clean Gradio interface to demonstrate how real-world AI assistants can interact with external systems safely and reliably.
